@@ -1,5 +1,5 @@
 # genpassword.py
 Generate passwords with the commandline with ease.
 
-# usgae
+# usage
 python passwordgen.py
